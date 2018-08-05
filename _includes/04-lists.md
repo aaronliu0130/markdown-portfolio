@@ -1,4 +1,4 @@
-## Things I personaly love:
++ Things I personaly love:
 * Doing Algodoo
 * Programming :computer:
 * Exploring
